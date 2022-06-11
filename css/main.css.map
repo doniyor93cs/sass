@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "AEAA,eAAe;AAEf,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,IAAI;EACX,SAAS,EAAE,MAAM;EACjB,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;EACnB,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;CACrB;;AGTD,aAAa;AACb,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,UAAU;EACtB,MAAM,EAAE,IAAI;EACZ,eAAe,EAAE,MAAM;CAC1B;;AAED,AAAA,CAAC;AACD,CAAC,AAAA,QAAQ;AACT,CAAC,AAAA,OAAO,CAAC;EACL,UAAU,EAAE,OAAO;CACtB;;AAED,AAAA,IAAI,CAAC;EACD,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,mBAAmB;CACnC;;AAED,AAAA,GAAG,CAAC;EACA,SAAS,EAAE,IAAI;EACf,MAAM,EAAE,IAAI;CACf",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/blocks/_blocks.scss",
+        "../scss/blocks/_container.scss",
+        "../scss/blocks/_visually-hidden.scss",
+        "../scss/_fonts.scss",
+        "../scss/_general.scss",
+        "../scss/_mixins.scss",
+        "../scss/_variables.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
